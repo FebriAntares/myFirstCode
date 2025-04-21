@@ -1,0 +1,2 @@
+# myFirstCode
+Belajar git dasar
